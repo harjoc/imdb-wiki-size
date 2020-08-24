@@ -1,4 +1,4 @@
-# IMDb-Wiki
+# IMDb-wiki-size
 
 A browser extension that shows Wikipedia article size in words next to IMDb movie titles.
 
